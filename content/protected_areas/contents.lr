@@ -1,6 +1,6 @@
-_model: protected_areas
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: protected_areas
 ---
-title: Protected areas
+title: <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=protected+area" class="content-tag">Protected area</a>s
 ---
 bg_text:
 ---
@@ -16,7 +16,7 @@ graph_values: Choose values you want displayed on graph:
 ---
 overall_values: Overall values
 ---
-econ_values: Overall economic values
+econ_values: Overall <a href="natureforpeople.org/knowledge-base/?query=economic" class="content-tag">economic</a> values
 ---
 flow_econ_value: Flow of economic value
 ---
@@ -28,31 +28,31 @@ message_1: Choose country and/or PA
 ---
 message_2: Choose values
 ---
-cta_button_text: Let's solve challenges together
+cta_button_text: Let's solve <a href="natureforpeople.org/knowledge-base/?query=<a href="natureforpeople.org/knowledge-base/?query=challenge" class="content-tag">challenge</a>s" class="content-tag">challenges</a> together
 ---
 country: Country
 ---
-pa: Protected areas
+pa: <a href="natureforpeople.org/knowledge-base/?query=protected+areas" class="content-tag">Protected areas</a>
 ---
 values: Values
 ---
-learn_more_backline: Learn more
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_backline: Learn more
 ---
 learn_more_cta: Learn more
 ---
 learn_more_title_1: Nature & People
 ---
-learn_more_title_2: Sustainable Business
+learn_more_title_2: Sustainable <a href="natureforpeople.org/knowledge-base/?query=business" class="content-tag">Business</a>
 ---
 learn_more_title_3: Protected area values
 ---
 slug: protected-areas
 ---
 intro_body:
-<p>WWF is presenting key findings of a
-<a href="http://croatia.panda.org/en/what_we_do/protected_areas/pa4np/pa_bat_methodology/" class="cc-secondary">PA-BAT analysis</a>
-that can provide information how various stakeholders perceive the current and potential values of protected areas. Based on the discussions which have involved more than 1300 experts, government officers, entrepreneurs, farmers and local community representatives in the region.</p>
+<p><a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">WWF</a> is presenting key findings of a
+<a href="http://croatia.panda.org/en/what_we_do/protected_areas/pa4np/pa_bat_methodology/" class="cc-secondary">PA-BAT <a href="natureforpeople.org/knowledge-base/?query=analysis" class="content-tag">analysis</a></a>
+that can provide information how various <a href="natureforpeople.org/knowledge-base/?query=stakeholders" class="content-tag">stakeholders</a> perceive the current and potential values of protected areas. Based on the discussions which have involved more than 1300 experts, government officers, entrepren<a href="natureforpeople.org/knowledge-base/?query=eu" class="content-tag">eu</a>rs, <a href="natureforpeople.org/knowledge-base/?query=farmers" class="content-tag">farmers</a> and local comm<a href="natureforpeople.org/knowledge-base/?query=unity" class="content-tag">unity</a> representatives in the region.</p>
 
-<p>The estimated values of the protected area can be existential, economical, and have a potential for future revenue. The results of the assessment are relevant for PA managers, but also for national and local governments and local actors who are leading sustainable development initiatives.</p>
+<p>The estimated values of the protected area can be existential, economical, and have a potential for future revenue. The results of the <a href="natureforpeople.org/knowledge-base/?query=assessment" class="content-tag">assessment</a> are relevant for PA managers, but also for national and local <a href="natureforpeople.org/knowledge-base/?query=governments" class="content-tag">governments</a> and local actors who are leading <a href="natureforpeople.org/knowledge-base/?query=sustainable+<a href="natureforpeople.org/knowledge-base/?query=development" class="content-tag">development</a>" class="content-tag"><a href="natureforpeople.org/knowledge-base/?query=sustainable+development" class="content-tag">sustainable development</a></a> <a href="natureforpeople.org/knowledge-base/?query=initiatives" class="content-tag">initiatives</a>.</p>
 ---
 intro_title: Protected area values

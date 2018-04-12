@@ -1,27 +1,27 @@
-_model: factsheet
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet
 ---
-title: Sustainable business
+title: Sustainable <a href="natureforpeople.org/knowledge-base/?query=business" class="content-tag">business</a>
 ---
 bg_text:
 ---
 main_headline:
 ---
-learn_more_button: Learn more
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_button: Learn more
 ---
 intro_title: Sustainable business
 ---
 intro_body:
 
-<p>WWF has carried out numerous projects in the region in cooperation with businesses, natural resource managers, and local communities. Their activities have been guided by WWF to use natural resources in a sustainable way – forests, fish stocks, tourism in marine protected areas, and hydropower.</p>
-<p class="mt2">Sustainable business activities have a number of benefits for:</p>
+<p><a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">WWF</a> has carried out numerous projects in the region in <a href="natureforpeople.org/knowledge-base/?query=cooperation" class="content-tag">cooperation</a> with <a href="natureforpeople.org/knowledge-base/?query=businesses" class="content-tag">businesses</a>, natural resource managers, and local <a href="natureforpeople.org/knowledge-base/?query=communities" class="content-tag">communities</a>. Their <a href="natureforpeople.org/knowledge-base/?query=activities" class="content-tag">activities</a> have been guided by WWF to use <a href="natureforpeople.org/knowledge-base/?query=natural+resources" class="content-tag">natural resources</a> in a sustainable way – <a href="natureforpeople.org/knowledge-base/?query=forest" class="content-tag">forest</a>s, <a href="natureforpeople.org/knowledge-base/?query=fish" class="content-tag">fish</a> stocks, <a href="natureforpeople.org/knowledge-base/?query=tourism" class="content-tag">tourism</a> in <a href="natureforpeople.org/knowledge-base/?query=marine" class="content-tag">marine</a> <a href="natureforpeople.org/knowledge-base/?query=protected+area" class="content-tag">protected area</a>s, and <a href="natureforpeople.org/knowledge-base/?query=hydropower" class="content-tag">hydropower</a>.</p>
+<p class="mt2">Sustainable business activities have a number of <a href="natureforpeople.org/knowledge-base/?query=benefits" class="content-tag">benefits</a> for:</p>
 <ul class="mt2">
 <li>nature</li>
-<li>local community</li>
+<li>local comm<a href="natureforpeople.org/knowledge-base/?query=unity" class="content-tag">unity</a></li>
 <li>companies who do business sustainably</li>
 <li>consumers and other end users</li>
 </ul>
 ---
-cta_button_text: Let's solve challenges together
+cta_button_text: Let's solve <a href="natureforpeople.org/knowledge-base/?query=<a href="natureforpeople.org/knowledge-base/?query=challenge" class="content-tag">challenge</a>s" class="content-tag">challenges</a> together
 ---
 _template: sustainable_business.html
 ---

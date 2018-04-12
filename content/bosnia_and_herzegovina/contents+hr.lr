@@ -1,4 +1,4 @@
-_model: country
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: country
 ---
 _template: bosnia_and_herzegovina.html
 ---
@@ -12,25 +12,25 @@ banner_button_text: Saznajte više
 ---
 banner_image_meta: Livanjsko polje
 ---
-more_info_title: Izvor i više informacija
+<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_info_title: Izvor i više informacija
 ---
-fact_1_title: Šumarstvo
+fact_1_title: <a href="natureforpeople.org/knowledge-base/?query=%C5%A0umarstvo" class="content-tag">Šumarstvo</a>
 ---
 fact_1_subtitle: Raspodjela prihoda
 ---
-fact_1_copy: <a href="http://croatia.panda.org/projekti/promoviranje_odrivog_gospodarenja_umama_kao_podrka_odrivom_razvoju_u_bosni_i_hercegovini/" target="_blank">WWF u suradnji s IKEA-om</a> kroz certificiranje šuma (FSC) namjerava smanjiti nezakonitu sječu i promovirati odgovorno upravljanje šumama kako bi se podržao održivi razvoj u Bosni i Hercegovini.
+fact_1_copy: <a href="http://croatia.panda.org/projekti/promoviranje_odrivog_gospodarenja_umama_kao_podrka_odrivom_razvoju_u_bosni_i_hercegovini/" target="_blank"><a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">WWF</a> u suradnji s <a href="natureforpeople.org/knowledge-base/?query=ikea" class="content-tag">IKEA</a>-om</a> kroz certificiranje šuma (FSC) namjerava smanjiti nezakonitu sječu i promovirati odgovorno upravljanje šumama kako bi se podržao <a href="natureforpeople.org/knowledge-base/?query=odr%C5%BEivi+razvoj" class="content-tag">održivi razvoj</a> u Bosni i Hercegovini.
 ---
 fact_1_question: Može li se više prirodnih resursi u Bosni i Hercegovini koristiti  na održivi način?
 ---
 fact_1_caption: <a href="http://www.usitfbih.ba/sumarstvo_bih.html" target="_blank">53% površine Bosne i Hercegovine</a> pokriveno je šumom i šumskim zemljištem.
 ---
-fact_2_title: Poslovi
+fact_2_title: Pos<a href="natureforpeople.org/knowledge-base/?query=lov" class="content-tag">lov</a>i
 ---
 fact_2_subtitle: Radna mjesta u zaštiti prirode
 ---
-fact_2_copy: Bosna i Hercegovina je teško pogođena nezaposlenošću sa procijenjenom stopom od <a href="http://www.fzzz.ba/vijesti/reregistracija-nezaposlenih-osoba-u-federaciji-bih" target="_blank">47%</a>, što čini više od <a href="http://www.bhas.ba/saopstenja/2017/NEZ_2017M1_001_01_BS.pdf" target="_blank">511 tisuća</a> registriranih nezaposlenih osoba. Radna mjesta u zaštićenim područjima osim ekonomske koristi nude i mnoge druge društvene dobrobiti, kao što su prilike za obrazovanje lokalnog stanovništva potičući skrbnički stav prema prirodi.
+fact_2_copy: Bosna i Hercegovina je teško pogođena nezaposlenošću sa procijenjenom stopom od <a href="http://www.fzzz.ba/vijesti/rere<a href="natureforpeople.org/knowledge-base/?query=gis" class="content-tag">gis</a>tracija-nezaposlenih-osoba-u-federaciji-bih" target="_blank">47%</a>, što čini više od <a href="http://www.bhas.ba/saopstenja/2017/NEZ_2017M1_001_01_BS.pdf" target="_blank">511 tisuća</a> registriranih nezaposlenih osoba. Radna mjesta u zaštićenim područjima osim <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=ekonomske+koristi" class="content-tag">ekonomske koristi</a> nude i mnoge druge društvene dobrobiti, kao što su prilike za obrazovanje lokalnog stanovništva potičući skrbnički stav prema prirodi.
 ---
-fact_2_question: Mogućnosti zapošljavanja uvelike ovise o praksi upravljanja zaštićenim područjem. Jesu li zaštićena područja prilagođena modernim pristupima upravljanja?
+fact_2_question: Mogućnosti zapošljavanja uvelike ovise o praksi upravljanja zaštićenim područjem. Jesu li <a href="natureforpeople.org/knowledge-base/?query=za%C5%A1ti%C4%87ena+podru%C4%8Dja" class="content-tag">zaštićena područja</a> prilagođena modernim pristupima upravljanja?
 ---
 fact_2_caption: 300 ljudi zaposleno je u zaštićenim područjima Bosne i Hercegovine (177 ljudi u Republici Srpskoj i 132 u FBiH).
 ---
@@ -38,13 +38,13 @@ fact_3_title: Voda
 ---
 fact_3_subtitle: Prihodi od korištenja voda
 ---
-fact_3_copy: Oko 45 % električne energije proizvedene u Bosni i Hercegovini nastaje radom hidroelektrana. Svake godine hidroelektrane u zemlji prosječno proizvedu električnu energiju u vrijednosti od 350 milijuna eura. Međutim, dobrobiti za lokalnu zajednicu od proizvodnje hidroelektrana su malobrojne, naročito ako ih se promatra dugoročno.
+fact_3_copy: Oko 45 % električne energije proizvedene u Bosni i Hercegovini nastaje radom hidroelektrana. Svake godine hidroelektrane u zemlji prosječno proizvedu električnu energiju u <a href="natureforpeople.org/knowledge-base/?query=vrijednosti" class="content-tag">vrijednosti</a> od 350 milijuna <a href="natureforpeople.org/knowledge-base/?query=eu" class="content-tag">eu</a>ra. Međutim, dobrobiti za lokalnu zajednicu od proizvodnje hidroelektrana su malobrojne, naročito ako ih se promatra dugoročno.
 ---
-fact_3_question: Je li lokalno stanovništvo upoznato s koristima usluge ekosustava koje pružaju vode i močvarna područja, kao i s potencijalom za njihovo održivo korištenje? Kako se novac iz nadoknada vraća u zaštićena područja i u lokalne zajednice?
+fact_3_question: Je li lokalno stanovništvo upoznato s koristima <a href="natureforpeople.org/knowledge-base/?query=usluge+ekosustava" class="content-tag">usluge ekosustava</a> koje pružaju vode i močvarna područja, kao i s potencijalom za njihovo održivo korištenje? Kako se novac iz nadoknada vraća u zaštićena područja i u lokalne zajednice?
 ---
 fact_3_caption: Bosna i Hercegovina s više od 9.200 m<sup>3</sup> vode po glavi stanovnika najbogatija je zemlja pitkom vodom u regiji i među deset najbogatijih zemalja u Europi.
 ---
-fact_4_title: Turizam
+fact_4_title: <a href="natureforpeople.org/knowledge-base/?query=turizam" class="content-tag">Turizam</a>
 ---
 fact_4_subtitle: Broj posjetitelja
 ---
@@ -58,7 +58,7 @@ fact_5_title: Lokalni razvoj
 ---
 fact_5_subtitle: Pokretač rasta
 ---
-fact_5_copy: <a href="https://natureforpeople.org/hr/wwf_examples/local_una/">Nacionalni park Una</a> jedan je od pokretača ekonomskog razvoja regije. Uz suradnju s lokalnim ponuđačima turističkih usluga park svake godine bilježi dvostruko više posjeta.
+fact_5_copy: <a href="https://natureforpeople.org/hr/wwf_examples/local_una/"><a href="natureforpeople.org/knowledge-base/?query=nacionalni+park+una" class="content-tag"><a href="natureforpeople.org/knowledge-base/?query=nacionalni+park" class="content-tag">Nacionalni park</a> Una</a></a> jedan je od pokretača ekonomskog razvoja regije. Uz suradnju s lokalnim ponuđačima turističkih usluga park svake godine bilježi dvostruko više posjeta.
 ---
 fact_5_question: Gdje leži prilika za ekonomski razvoj u zaštićenim područjima i oko njih?
 ---
@@ -72,19 +72,19 @@ fact_6_copy: Analiza rijeka koje su pod prijetnjom neodrživog hidroenergetskog 
 ---
 fact_6_question: Kako osigurati da investitori grade i upravljaju hidroelektranama sukladno svjetski prepoznatim smjernicama za održivi razvoj hidroenergetike? Kako osigurati da vlada proglasi područja u kojima gradnja hidroelektrana nije dozvoljena?
 ---
-fact_6_caption: Nacionalni park Sutjeska kojem prijeti gradnje hidroelektrane ima više vrsta biljaka (<a href="http://etnar.net/wp-content/uploads/2015/02/Sutjeska-Publikacija.pdf" target="_blank">1800</a>) nego u cijeloj <a href="https://cmsdata.iucn.org/downloads/poland_s_biodiversity_at_risk_fact_sheet_may_2013.pdf" target="_blank">Poljskoj</a>.
+fact_6_caption: <a href="natureforpeople.org/knowledge-base/?query=nacionalni+park+sutjeska" class="content-tag">Nacionalni park Sutjeska</a> kojem prijeti gradnje hidroelektrane ima više vrsta biljaka (<a href="http://etnar.net/wp-content/uploads/2015/02/Sutjeska-Publikacija.pdf" target="_blank">1800</a>) nego u cijeloj <a href="https://cmsdata.iucn.org/downloads/poland_s_<a href="natureforpeople.org/knowledge-base/?query=biodiversity" class="content-tag">biodiversity</a>_at_<a href="natureforpeople.org/knowledge-base/?query=risk" class="content-tag">risk</a>_fact_sheet_may_2013.pdf" target="_blank">Poljskoj</a>.
 ---
 cta_button_text: Riješimo izazove zajedno
 ---
-fact_1_title_icon: cntry-msg-forest
+fact_1_title_icon: cntry-msg-<a href="natureforpeople.org/knowledge-base/?query=forest" class="content-tag">forest</a>
 ---
-fact_2_title_icon: cntry-msg-jobs
+fact_2_title_icon: cntry-msg-<a href="natureforpeople.org/knowledge-base/?query=jobs" class="content-tag">jobs</a>
 ---
 fact_3_title_icon: cntry-msg-hydro-power
 ---
-fact_4_title_icon: cntry-msg-tourism
+fact_4_title_icon: cntry-msg-<a href="natureforpeople.org/knowledge-base/?query=tourism" class="content-tag">tourism</a>
 ---
-fact_5_title_icon: cntry-msg-growth
+fact_5_title_icon: cntry-msg-<a href="natureforpeople.org/knowledge-base/?query=growth" class="content-tag">growth</a>
 ---
 fact_6_title_icon: cntry-msg-bridge
 ---
@@ -93,7 +93,7 @@ fact_1_infobox:
 ---
 fact_2_infobox:
 <p>
-<a href="http://www.fzzz.ba/vijesti/reregistracija-nezaposlenih-osoba-u-federaciji-bih">Federalni zavod za zapošljavanje Federacije Bosne i Hercegovine</a><br />
+<a href="http://www.fzzz.ba/vijesti/reregistracija-nezaposlenih-osoba-u-federaciji-bih">Federalni zavod za <a href="natureforpeople.org/knowledge-base/?query=zapo%C5%A1ljavanje" class="content-tag">zapošljavanje</a> Federacije Bosne i Hercegovine</a><br />
 <a href="http://www.bhas.ba/saopstenja/2017/NEZ_2017M1_001_01_BS.pdf">Agencija za statistiku Bosne i Hercegovine</a>
 </p>
 ---
@@ -108,25 +108,25 @@ fact_5_infobox:
 ---
 fact_6_infobox:
 <p>
-WWF je zajedno s najvažnijim institucijama za zaštitu okoliša iz Albanije, Bosne i Hercegovine, Crne Gore i Hrvatske proveo analizu riječnih tokova kako bi se prepoznali oni još netaknuti i bogati biološkom raznolikošću. Analizom je obuhvaćeno 296 rijeka pod prijetnjom neodrživog hidroenergetskog razvoja, u ukupnoj duljini od 13.278 km i ukupne površine sliva od oko 165.000 km<sup>2</sup>.<br />
+WWF je zajedno s najvažnijim institucijama za zaštitu <a href="natureforpeople.org/knowledge-base/?query=okoli%C5%A1" class="content-tag">okoliš</a>a iz Albanije, Bosne i Hercegovine, Crne Gore i Hrvatske proveo analizu riječnih tokova kako bi se prepoznali oni još netaknuti i bogati biološkom raznolikošću. Analizom je obuhvaćeno 296 rijeka pod prijetnjom neodrživog hidroenergetskog razvoja, u ukupnoj duljini od 13.278 km i ukupne površine sliva od oko 165.000 km<sup>2</sup>.<br />
 Analiza je uzela u obzir stanje rijeka (na temelju njihove hidrologije, morfologije korita, obalne vegetacije, kvalitete vode i upotrebe zemljišta u podslivu) i njihovo biološko stanje na temelju distribucije slatkovodnih ribljih vrsta i postojanju zaštićenih područja.<br />
 Rezultati analize pokazali su da je razina cjelovitosti riječne mreže izrazito visoka te da su mnoge rijeke još uvijek u vrlo dobrom ili dobrom stanju.<br />
 Izvor: <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/rijeke_linije_ivote_dinarskog_luka.pdf">Rijeke: linije života Dinarskog luka</a><br /><br />
 Najvažniji prijedlozi za povećanje održivosti brana uključuju:<br />
-• Dobivanje potpore javnosti na temelju pouzdanih informacija koje
+• Dobivanje potpore <a href="natureforpeople.org/knowledge-base/?query=javnost" class="content-tag">javnost</a>i na temelju pouzdanih informacija koje
 institucionalnim dionicima i lokalnom stanovništvu omogućuju smisleno
 sudjelovanje u odlučivanju.<br />
 • Procjenjivanje svih opcija, pridavanje jednake težine društvenim i ekološkim
 aspektima kao i tehničkim čimbenicima te razmatranje postojećih brana s
 tehničkog i društvenog aspekta.<br />
 • Izvlačenje maksimuma koristi iz postojećih brana prije izgradnje novih.<br />
-• Promicanje razumijevanja o vodnim ekosustavima i njihovom održavanju duž
+• Promicanje razumijevanja o vodnim <a href="natureforpeople.org/knowledge-base/?query=ekosustavi" class="content-tag">ekosustavi</a>ma i njihovom održavanju duž
 cijelog riječnog sliva.<br />
 • Dijeljenje koristi brana.<br />
 • Izgradnja u skladu s najboljim dostupnim dogovorenim standardima.<br />
 • Razmatranje prekograničnih utjecaja, posebice u projektima koji uključuju
 preusmjeravanje vode.<br />
-Source: <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/guide_for_investors_cro__izmjena_2016_.pdf">ODRŽIVA HIDROENERGIJA U DINARSKOM LUKU - Vodič za investitore</a>
+Source: <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/guide_for_<a href="natureforpeople.org/knowledge-base/?query=investors" class="content-tag">investors</a>_cro__izmjena_2016_.pdf">ODRŽIVA HIDROENERGIJA U DINARSKOM LUKU - Vodič za investitore</a>
 </p>
 ---
 picto_1_infobox:
@@ -150,7 +150,7 @@ picto_4_infobox:
 picto_5_infobox:
 
 <p>
-<a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/una_factsheet_2017_hr_verzija_za_web.pdf">Suradnja s lokalnom zajednicom i dionicima u Nacionalnom parku Una</a>
+<a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/una_<a href="natureforpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet_2017_hr_verzija_za_web.pdf">Suradnja s lokalnom zajednicom i dionicima u Nacionalnom parku Una</a>
 </p>
 ---
 picto_6_infobox:

@@ -1,4 +1,4 @@
-_model: country
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: country
 ---
 _template: croatia.html
 ---
@@ -10,15 +10,15 @@ banner_message: Čisti zrak i voda, hrana, oprašivanje usjeva, prirodni materij
 ---
 banner_button_text: Saznajte više
 ---
-banner_image_meta: Park prirode Lastovsko otočje
+banner_image_meta: <a href="natureforpeople.org/knowledge-base/?query=park+prirode" class="content-tag">Park prirode</a> Lastovsko otočje
 ---
-more_info_title: Izvor i više informacija
+<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_info_title: Izvor i više informacija
 ---
-fact_1_title: Turizam
+fact_1_title: <a href="natureforpeople.org/knowledge-base/?query=turizam" class="content-tag">Turizam</a>
 ---
 fact_1_subtitle: Broj posjetitelja
 ---
-fact_1_copy: Sva zaštićena područja ostvaruju prihode od turizma, a u čak dvije trećine zaštićenih područja turizam je glavni izvor prihoda za lokalnu zajednicu. Dobrobit lokalne zajednice  turizmu povezana je sa zaštićenom prirodom.
+fact_1_copy: Sva <a href="natureforpeople.org/knowledge-base/?query=za%C5%A1ti%C4%87ena+podru%C4%8Dja" class="content-tag">zaštićena područja</a> ostvaruju prihode od turizma, a u čak dvije trećine zaštićenih područja turizam je glavni izvor prihoda za lokalnu zajednicu. Dobrobit lokalne zajednice  turizmu povezana je sa zaštićenom prirodom.
 ---
 fact_1_question: Prepoznaju li strategije turizma zaštićena područja kao pokretače razvoja?
 ---
@@ -28,23 +28,23 @@ fact_2_title: Voda
 ---
 fact_2_subtitle: Prihodi od korištenja voda
 ---
-fact_2_copy: Godišnji prihod dviju elektrana koje upotrebljavaju vodu iz zaštićenih područja na Velebitu iznosi <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/vrednovanje_doprinosa_ekosustava_nacionalnog_parka_sjeverni_velebit_i_parka_prirode_vele.pdf" target="_blank">60 milijuna eura</a>. Njihovo godišnje ulaganje u zaštitu 200.000 hektara šumskog ekosustava iznosi samo <a href="http://www.mps.hr/default.aspx?id=8451" target="_blank">0,0265% od ukupnog prihoda</a> hidroelektrana. Ti prihodi odlaze Hrvatskim šumama koje bi trebale sredstava namjenski trošiti na mjere očuvanja šumskog ekosustava, jer bez kvalitetnog šumskog pokrova neće biti niti vode dostupne za proizvodnju električne energije u hidroelektranama.
+fact_2_copy: Godišnji prihod dviju elektrana koje upotrebljavaju vodu iz zaštićenih područja na Velebitu iznosi <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/vrednovanje_doprinosa_ekosustava_nacionalnog_parka_sjeverni_velebit_i_parka_prirode_vele.pdf" target="_blank">60 milijuna <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=eu" class="content-tag">eu</a>ra</a>. Njihovo godišnje ulaganje u zaštitu 200.000 hektara šumskog ekosustava iznosi samo <a href="http://www.mps.hr/default.aspx?id=8451" target="_blank">0,0265% od ukupnog prihoda</a> hidroelektrana. Ti prihodi odlaze Hrvatskim šumama koje bi trebale sredstava namjenski trošiti na mjere očuvanja šumskog ekosustava, jer bez kvalitetnog šumskog pokrova neće biti niti vode dostupne za proizvodnju električne energije u hidroelektranama.
 ---
-fact_2_question: Kojim strategijama prepoznati i vrednovati usluge ekosustava koje pruža očuvana priroda te vratiti dio prihoda zaštićenim područjima?
+fact_2_question: Kojim <a href="natureforpeople.org/knowledge-base/?query=strategija" class="content-tag">strategija</a>ma prepoznati i vrednovati <a href="natureforpeople.org/knowledge-base/?query=usluge+ekosustava" class="content-tag">usluge ekosustava</a> koje pruža očuvana priroda te vratiti dio prihoda zaštićenim područjima?
 ---
 fact_2_caption: U Hrvatskoj je samo 2,76 % rijeka koje slobodno teku i nemaju prepreka od izvora do ušća.
 ---
-fact_3_title: Poslovi
+fact_3_title: Pos<a href="natureforpeople.org/knowledge-base/?query=lov" class="content-tag">lov</a>i
 ---
 fact_3_subtitle: Radna mjesta u zaštiti prirode
 ---
 fact_3_copy: U 8 nacionalnih parkova i 11 parkova prirode zaposleno je više <a href="https://vlada.gov.hr/UserDocsImages//Sjednice/2015/253%20sjednica%20Vlade//253%20-%209a.pdf" target="_blank">od 1300 ljudi, od kojih samo 15 posto radi na poslovima zaštite prirode dok ostali većinom rade u popratnim djelatnostima (ugostiteljstvo, održavanje...)</a>.  Od sveukupnog broja zaposlenih u navedenim zaštićenim područjima dvije trećine radi u samo jednom zaštićenom području.
 ---
-fact_3_question: Razumiju li  donosioci odluka prilike koje zaštita prirode pruža za zadržavanje visokoobrazovanih mladih ljudi u ruralnim dijelovima i njihov doprinos lokalnom razvoju.
+fact_3_question: Razumiju li  donosioci odluka prilike koje <a href="natureforpeople.org/knowledge-base/?query=za%C5%A1tita+prirode" class="content-tag">zaštita prirode</a> pruža za zadržavanje visokoobrazovanih mladih ljudi u ruralnim dijelovima i njihov doprinos lokalnom razvoju.
 ---
 fact_3_caption: Poslovi u zaštićenim područjima su glavni izvor prihoda lokalnom stanovništvu u 39% parkova.
 ---
-fact_4_title: Šumarstvo
+fact_4_title: <a href="natureforpeople.org/knowledge-base/?query=%C5%A0umarstvo" class="content-tag">Šumarstvo</a>
 ---
 fact_4_subtitle: Raspodjela prihoda
 ---
@@ -54,21 +54,21 @@ fact_4_question: Jesu li lokalne zajednice i savjetodavne službe dovoljno infor
 ---
 fact_4_caption: Poslovni sektor ostvaruje značajni prihod u 4 zaštićena područja, dok lokalno stanovništvo ostvaruje značajan prihod od šumarstva u jednom zaštićenom području.
 ---
-fact_5_title: Akvakultura
+fact_5_title: <a href="natureforpeople.org/knowledge-base/?query=akvakultura" class="content-tag">Akvakultura</a>
 ---
 fact_5_subtitle: Najbrže rastući oblik proizvodnje hrane svijetu
 ---
-fact_5_copy: Akvakultura danas predstavlja gotovo 50% proizvoda iz ribarstva koje se nalazi na tržištu. Samo odgovorna akvakultura može garantirati stabilnu proizvodnju koja neće imati negativne utjecaje na okoliš. Evropa je najveći uvoznik proizvoda iz ribarstva na svijetu. Odabirom proizvoda iz ribarstva koji su uzgojeni na održiv način možemo osigurati budućnost morima i ljudima.
+fact_5_copy: Akvakultura danas predstavlja gotovo 50% proizvoda iz ribarstva koje se nalazi na tržištu. Samo odgovorna akvakultura može garantirati stabilnu proizvodnju koja neće imati negativne utjecaje na <a href="natureforpeople.org/knowledge-base/?query=okoli%C5%A1" class="content-tag">okoliš</a>. Evropa je najveći uvoznik proizvoda iz ribarstva na svijetu. Odabirom proizvoda iz ribarstva koji su uzgojeni na održiv način možemo osigurati <a href="natureforpeople.org/knowledge-base/?query=budu%C4%87nost" class="content-tag">budućnost</a> morima i ljudima.
 ---
-fact_5_question: Prati li sektor ribarstva trendove održive akvakulture i uključuje li ih u nacionalno zakonodavstvo? Kupujete li certificirane riblje proizvode – MSC (Marine Stewardship Council) certifikat za proizvode iz ribarstva iz ulova ili ASC (Aquaculture Stewardship Council) za proizvode iz ribarstva iz uzgoja?
+fact_5_question: Prati li sektor ribarstva trendove održive akvakulture i uključuje li ih u nacionalno zakonodavstvo? Kupujete li certificirane riblje proizvode – MSC (<a href="natureforpeople.org/knowledge-base/?query=marine" class="content-tag">Marine</a> <a href="natureforpeople.org/knowledge-base/?query=stewardship" class="content-tag">Stewardship</a> Council) certifikat za proizvode iz ribarstva iz ulova ili ASC (Aqua<a href="natureforpeople.org/knowledge-base/?query=culture" class="content-tag">culture</a> Stewardship Council) za proizvode iz ribarstva iz uzgoja?
 ---
 fact_5_caption: Za uzgoj jednog kilograma tune u Jadranu potrebno je od 12 do 17 kilograma male plave ribe.
 ---
-fact_6_title: Ribarstvo
+fact_6_title: <a href="natureforpeople.org/knowledge-base/?query=ribarstvo" class="content-tag">Ribarstvo</a>
 ---
 fact_6_subtitle: Održivo ribarstvo u Jadranu
 ---
-fact_6_copy: Procijenjeno je da je 93% ribljih stokova u Sredozemnom moru, a samim time i u Jadranu u <a href="https://www.nature.com/articles/srep44491.epdf?author_access_token=ehT2hgUO6aKq1T32eajg_dRgN0jAjWel9jnR3ZoTv0MoD2X2fubsnPGcl5h8WifHMoCnYg1--KEk1CQgUwetfoxbv52xpuAC4Xi4pepG56_EgGB8DMVLyPOjyS-qb3AT" target="_blank">lošem statusu</a>, a jedan od glavnih uzroka tome je neodrživ ribolov. Ukoliko se nastavi ovim tempom uskoro bi mogli ostati bez ribe u Jadranu.
+fact_6_copy: Procijenjeno je da je 93% ribljih stokova u Sredozemnom moru, a samim time i u Jadranu u <a href="https://www.nature.com/articles/srep44491.epdf?author_access_token=ehT2hgUO6aKq1T32eajg_dRgN0jAjWel9jnR3ZoTv0MoD2X2fubsnPGcl5h8WifHMoCnYg1--KEk1CQgUwetfoxbv52xpuAC4Xi4pepG56_EgGB8DMVLyPOjyS-qb3AT" target="_blank">lošem statusu</a>, a jedan od glavnih uzroka tome je neodrživ <a href="natureforpeople.org/knowledge-base/?query=ribolov" class="content-tag">ribolov</a>. Ukoliko se nastavi ovim tempom uskoro bi mogli ostati bez ribe u Jadranu.
 ---
 fact_6_question: Razumiju li donosioci odluka i ribari da je održivo ribarstvo jedini put ka dugoročnoj egzistenciji i dovoljnoj količini ribe u Jadranu?
 ---
@@ -78,23 +78,23 @@ fact_7_title: Rijeke
 ---
 fact_7_subtitle: Prirodni tokovi
 ---
-fact_7_copy: Analiza rijeka koji su pod prijetnjom neodrživog hidroenergetskog razvoja je pokazala da Hrvatska ima čak 73% (3.301 km) iznimnih netaknutih riječnih tokova bogatih biološkom raznolikošću. Istovremeno sve je veća potražnja u korištenju rijeka za proizvodnju električne energije, što vrlo često ima iznimno negativne posljedice za prirodne vrijednosti rijeka kao i uobičajen način korištenja prostora i prirodnih resursa.
+fact_7_copy: Analiza rijeka koji su pod prijetnjom neodrživog hidroenergetskog razvoja je pokazala da Hrvatska ima čak 73% (3.301 km) iznimnih netaknutih riječnih tokova bogatih biološkom raznolikošću. Istovremeno sve je veća potražnja u korištenju rijeka za proizvodnju električne energije, što vrlo često ima iznimno negativne posljedice za prirodne <a href="natureforpeople.org/knowledge-base/?query=vrijednosti" class="content-tag">vrijednosti</a> rijeka kao i uobičajen način korištenja prostora i prirodnih resursa.
 ---
-fact_7_question: Kako osigurati da investitori grade i upravljaju hidroelektranama sukladno svjetski prepoznatim smjernicama za održivi razvoj hidroenergetike? Kako osigurati da vlada proglasi područja u kojima gradnja hidroelektrana nije dozvoljena?
+fact_7_question: Kako osigurati da investitori grade i upravljaju hidroelektranama sukladno svjetski prepoznatim smjernicama za <a href="natureforpeople.org/knowledge-base/?query=odr%C5%BEivi+razvoj" class="content-tag">održivi razvoj</a> hidroenergetike? Kako osigurati da vlada proglasi područja u kojima gradnja hidroelektrana nije dozvoljena?
 ---
 fact_7_caption: Jedna obitelj bregunica dnevno pojede oko 10.000 komaraca
 ---
 cta_button_text: Riješimo izazove zajedno
 ---
-fact_1_title_icon: cntry-msg-tourism
+fact_1_title_icon: cntry-msg-<a href="natureforpeople.org/knowledge-base/?query=tourism" class="content-tag">tourism</a>
 ---
 fact_2_title_icon: cntry-msg-hydro-power
 ---
-fact_3_title_icon: cntry-msg-jobs
+fact_3_title_icon: cntry-msg-<a href="natureforpeople.org/knowledge-base/?query=jobs" class="content-tag">jobs</a>
 ---
-fact_4_title_icon: cntry-msg-forest
+fact_4_title_icon: cntry-msg-<a href="natureforpeople.org/knowledge-base/?query=forest" class="content-tag">forest</a>
 ---
-fact_5_title_icon: cntry-msg-fish-plate
+fact_5_title_icon: cntry-msg-<a href="natureforpeople.org/knowledge-base/?query=fish" class="content-tag">fish</a>-plate
 ---
 fact_6_title_icon: cntry-msg-fishing
 ---
@@ -124,7 +124,7 @@ fact_4_infobox:
 ---
 fact_5_infobox:
 <p>
-<a href="http://www.mps.hr/ribarstvo/UserDocsImages/NSPA%20Programska%20polazi%C5%A1ta%20i%20ciljevi.pdf" target="_blank">Nacionalni strateški plan razvoja akvakulture za razdoblje 2014.-2020. godine</a>
+<a href="http://www.mps.hr/ribarstvo/UserDocsImages/NSPA%20Programska%20polazi%C5%A1ta%20i%20<a href="natureforpeople.org/knowledge-base/?query=ciljevi" class="content-tag">ciljevi</a>.pdf" target="_blank">Nacionalni strateški plan razvoja akvakulture za razdoblje 2014.-2020. godine</a>
 </p>
 
 <p>
@@ -139,7 +139,7 @@ Source: <a href="http://www.klastermarikultura.hr/o-nama/12-klaster-marikultura"
 ---
 fact_6_infobox:
 <p>
-<a href="https://www.nature.com/articles/srep44491.epdf?author_access_token=ehT2hgUO6aKq1T32eajg_dRgN0jAjWel9jnR3ZoTv0MoD2X2fubsnPGcl5h8WifHMoCnYg1--KEk1CQgUwetfoxbv52xpuAC4Xi4pepG56_EgGB8DMVLyPOjyS-qb3AT" target="_blank">Historical changes of the Mediterranean Sea ecosystem: modelling the role and impact of primary productivity and fisheries changes over time</a>
+<a href="https://www.nature.com/articles/srep44491.epdf?author_access_token=ehT2hgUO6aKq1T32eajg_dRgN0jAjWel9jnR3ZoTv0MoD2X2fubsnPGcl5h8WifHMoCnYg1--KEk1CQgUwetfoxbv52xpuAC4Xi4pepG56_EgGB8DMVLyPOjyS-qb3AT" target="_blank">Historical changes of the Mediterranean Sea ecosystem: modelling the role and <a href="natureforpeople.org/knowledge-base/?query=impact" class="content-tag">impact</a> of primary <a href="natureforpeople.org/knowledge-base/?query=product" class="content-tag">product</a>ivity and fisheries changes over time</a>
 </p>
 
 ---
@@ -152,16 +152,16 @@ fact_7_infobox:
 <p>Najvažniji prijedlozi za povećanje održivosti brana uključuju:</p>
 
 <ul>
-<li>Dobivanje potpore javnosti na temelju pouzdanih informacija koje institucionalnim dionicima i lokalnom stanovništvu omogućuju smisleno sudjelovanje u odlučivanju.</li>
+<li>Dobivanje potpore <a href="natureforpeople.org/knowledge-base/?query=javnost" class="content-tag">javnost</a>i na temelju pouzdanih informacija koje institucionalnim dionicima i lokalnom stanovništvu omogućuju smisleno sudjelovanje u odlučivanju.</li>
 <li>Procjenjivanje svih opcija, pridavanje jednake težine društvenim i ekološkim aspektima kao i tehničkim čimbenicima te razmatranje postojećih brana s tehničkog i društvenog aspekta.</li>
 <li>Izvlačenje maksimuma koristi iz postojećih brana prije izgradnje novih.</li>
-<li>Promicanje razumijevanja o vodnim ekosustavima i njihovom održavanju duž cijelog riječnog sliva.</li>
+<li>Promicanje razumijevanja o vodnim <a href="natureforpeople.org/knowledge-base/?query=ekosustavi" class="content-tag">ekosustavi</a>ma i njihovom održavanju duž cijelog riječnog sliva.</li>
 <li>Dijeljenje koristi brana.</li>
 <li>Izgradnja u skladu s najboljim dostupnim dogovorenim standardima.</li>
 <li>Razmatranje prekograničnih utjecaja, posebice u projektima koji uključuju preusmjeravanje vode.</li>
 </ul>
 
-<p>Izvor: <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/guide_for_investors_cro__izmjena_2016_.pdf">Vodič za investitore</a></p>
+<p>Izvor: <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/guide_for_<a href="natureforpeople.org/knowledge-base/?query=investors" class="content-tag">investors</a>_cro__izmjena_2016_.pdf">Vodič za investitore</a></p>
 ---
 picto_1_infobox:
 
@@ -170,7 +170,7 @@ picto_1_infobox:
 ---
 picto_2_infobox:
 
-<p>WWF Adria statistika – Irma Popović Dujmović kontakt</p>
+<p><a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">WWF</a> Adria statistika – Irma Popović Dujmović kontakt</p>
 
 ---
 picto_3_infobox:
@@ -203,5 +203,5 @@ Izvor: <a href="http://www.dzs.hr/Hrv_Eng/publication/2016/01-04-01_01_2016.htm"
 ---
 picto_7_infobox:
 <p>
-<a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwf_bregunica_factsheet_final.pdf">Bregunica factsheet</a></p>
+<a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/wwf_bregunica_<a href="natureforpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet_final.pdf">Bregunica factsheet</a></p>
 ---

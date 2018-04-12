@@ -1,4 +1,4 @@
-_model: articles
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: articles
 ---
 _template: articles/single-article.html
 ---
@@ -10,7 +10,7 @@ lang: hr
 ---
 date: 11.1.2018.
 ---
-author: Ljubiša Pejović (ljubisa.pejovic@parksdinarides.org, prirodazaljude@wwfadria.org)
+author: Ljubiša Pejović (ljubisa.pejovic@<a href="natureforpeople.org/knowledge-base/?query=parks" class="content-tag">parks</a>dinarides.org, prirodazaljude@<a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">wwf</a>adria.org)
 ---
 size: big
 ---
@@ -22,7 +22,7 @@ lead_image_title: Kozjanski park © Kozjanski park
 ---
 lead_text:
 
-Slovenski Kozjanski park idealan je primjer odlične suradnje lokalne zajednice i parka koji je
+S<a href="natureforpeople.org/knowledge-base/?query=lov" class="content-tag">lov</a>enski Kozjanski park idealan je primjer odlične suradnje lokalne zajednice i parka koji je
 prepoznao najveće bogatstvo kraja - jabuke
 ---
 body:
@@ -36,14 +36,14 @@ body:
 <p>„Idete u Kozjanski? Sok od jabuka im je izvanredan!“</p>
 
 <p>Sa velikim očekivanjima dođosmo do oznake Kozjanskog parka, pored koje je stajala tabla
-„Slovenia Green park“. Dočekao nas je direktor mag. Teo Hrvoje Oršanič, sa saradnicom mag.
+„<a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=slovenia" class="content-tag">Slovenia</a> Green park“. Dočekao nas je direktor mag. Teo Hrvoje Oršanič, sa saradnicom mag.
 Valerijom Slemenšek, koju je predstavio kao „spiritus movensom“ Praznika Kozjanske jabuke.</p>
 
 <img src="/static/images/articles/kozjanski-park/kozjanski-park-(c)-kozjanski-park.jpg" class="fit-text" title="Kozjanski park © Kozjanski park">
 
 <p class="highlight">„Istrajnošću, predanošću i
 uvjerenjem da je to dobra ideja i da se vrijedi potruditi uspjeli smo da uvjerimo i privučemo i
-lokalnu zajednicu i širu javnost.“</p>
+lokalnu zajednicu i širu <a href="natureforpeople.org/knowledge-base/?query=javnost" class="content-tag">javnost</a>.“</p>
 
 <p>Uz sok od jabuka počinje priča, čiji su počeci vezani za 1999. godinu kada u Sloveniji počinje
 nacionalni projekat obnove tzv. „travnjačkih voćnjaka“ sa starim sortama. Kako travnjačke
@@ -62,7 +62,7 @@ ostalo je na čekanju.</p>
 <p>Iako se Praznik održava polovinom oktobra, interesovanje i rezervacije štandova počinju već u
 maju. Sa organizacijom se već počinje u avgustu.</p>
 
-<p>Travnjački voćnjaci u Kozjanskom su Natura 2000 područje, jer se na ovom prostoru parka štite
+<p>Travnjački voćnjaci u Kozjanskom su <a href="natureforpeople.org/knowledge-base/?query=natura+2000" class="content-tag">Natura 2000</a> područje, jer se na ovom prostoru parka štite
 ptičije vrste bitne za Evropu. Jedna od tih ugroženih vrsta jeste djetlić vijoglavka (Jynx
 torquilla), koji voli da gradi svoja gnijezda u krošnjama na starijim stablima voćaka. Upotreba
 pesticida i insekticida diretno bi ugrožavala tu vrstu. Sledeća simboiza travnjačkih voćnjaka i
@@ -79,7 +79,7 @@ smislu povećanja populacije ptica, insekata koji vrše oprašivanje, osnovana j
 starih sorti. U okviru nje Kozjanski park svake godine proizvede oko 2 500 sadnica domaćih
 sorti jabuka, za proizvođače sa njihovog područja“, kaže Slemenšek. To je i glavni razlog
 ekspanzije uzgajanja starih sorti na ovom području. Osim sadnog materijala, park pruža i
-tehičko stručnu pomoć. Svake godine održavaju se radionice, na kojima se pripadnci lokalne
+tehičko stručnu pomoć. Svake godine održavaju se <a href="natureforpeople.org/knowledge-base/?query=radionice" class="content-tag">radionice</a>, na kojima se pripadnci lokalne
 zajednice obučavaju za rezidbu jabuka. „Radionice su jako dobro posjećene, jer se uz učešće 40
 predstavnka, uvijek traži mjesto više. Stručna služba parka vrži rezidbu voćaka na terenu, za
 starije ljude koji nisu u mogućnosti da održavaju zasade starih sorti na svojim imanjima“,
@@ -144,7 +144,7 @@ Opštine Kozje, „Zlatnim grbom“.</p>
 sinergiju lokalne zajednice i samog parka. Uspješan model iz Kozjanskog nastavio je i Krajinski
 park Goričko iz Slovenije. Osim u Sloveniji, ovaj model kopiran je u susjednoj Hrvatskoj, u
 opštini Desinić i u Koprivnici, gdje uz pomoć Kozjanskog parka organizuju Dane jabuka. Postoji
-saradnja i sa Javnom ustanovom Za zaštitu prirodnih vrijednosti Krapinsko-zagorske županije
+saradnja i sa Javnom ustanovom Za zaštitu prirodnih <a href="natureforpeople.org/knowledge-base/?query=vrijednosti" class="content-tag">vrijednosti</a> Krapinsko-zagorske županije
 koja iz Kozjanskog nabavlja sadni materijal za stare sorte jabuka.</p>
 
 <p>Uprava parka zajedno za lokalnim proizvođačima nakon 17 godina upornog rada može da bude
@@ -157,7 +157,7 @@ zaštićenog područja Kozjanskog parka.</p>
 <img src="/static/images/articles/kozjanski-park/prekrasan-u-svako-doba-dana-(c)-kozjanski-park.jpg" class="fit-text" title="Prekrasan u svako doba dana – Kozjanski park © Kozjanski park">
 
 ---
-learn_more: Saznajte više
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>: Saznajte više
 ---
 tag1: lokalna zajednica
 ---
@@ -167,5 +167,5 @@ tag3:
 ---
 tag4:
 ---
-factsheet:
+<a href="natureforpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet:
 ---

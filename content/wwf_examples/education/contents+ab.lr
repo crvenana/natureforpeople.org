@@ -1,8 +1,8 @@
-_model: factsheet
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet
 ---
-_template: wwf_examples_factsheet.html
+_template: <a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">wwf</a>_examples_factsheet.html
 ---
-slug: education
+slug: <a href="natureforpeople.org/knowledge-base/?query=education" class="content-tag">education</a>
 ---
 title: Edukimi
 ---
@@ -12,7 +12,7 @@ bg_text:
 ---
 main_headline:
 ---
-learn_more_button: Lexo më shumë
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_button: Lexo më shumë
 ---
 intro_title: Edukimi për një ndryshim të qënësishëm  në ndërgjegjësimin e njerëzve
 për një ndryshim të qënësishëm  në ndërgjegjësimin e njerëzve
@@ -41,7 +41,7 @@ intro_body:
 
 <p class="highlight">Duke marrë pjesë në "Akademinë e WWF-it për natyrën" pjesëmarrësit bëhen ambasadorë të zonave të mbrojtura dhe marrin një rol të rëndësishëm në  menaxhimin e zonës së mbrojtur.</p>
 
-<p>Cikli i parë, nga tre ciklet e Akademisë së WWF-it zhvillohet në vitin shkollor 2016-2017 dhe përfshin 10 shkolla. Deri në fund të projektit do të përfshihen 30 shkolla nga e gjithë Serbia që pritet  të prodhojnë tre breza ambasadorësh. Përzgjedhja e shkollave dhe e pjesëmarrësve të Akademisë bazohet në një qasje jo-diskriminuese dhe  inkurajon grupet vulnerabël që të marrin pjesë. Në Akademi nxënësit dhe mësuesit mësojnë se si të hartohen dhe realizohen projekte interesante në fushën e mbrojtjes së natyrës.</p>
+<p>Cikli i parë, nga tre ciklet e Akademisë së WWF-it zhvillohet në vitin shkollor 2016-2017 dhe përfshin 10 shkolla. Deri në fund të projektit do të përfshihen 30 shkolla nga e gjithë <a href="natureforpeople.org/knowledge-base/?query=serbia" class="content-tag">Serbia</a> që pritet  të prodhojnë tre breza ambasadorësh. Përzgjedhja e shkollave dhe e pjesëmarrësve të Akademisë bazohet në një qasje jo-diskriminuese dhe  inkurajon grupet vulnerabël që të marrin pjesë. Në Akademi nxënësit dhe mësuesit mësojnë se si të hartohen dhe realizohen projekte interesante në fushën e mbrojtjes së natyrës.</p>
 
 <p>Programi në vijim përfshin:</p>
 <ul>

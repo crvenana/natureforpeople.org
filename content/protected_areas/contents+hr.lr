@@ -1,6 +1,6 @@
-_model: protected_areas
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: protected_areas
 ---
-title: Zaštićena područja
+title: <a href="natureforpeople.org/knowledge-base/?query=za%C5%A1ti%C4%87ena+podru%C4%8Dja" class="content-tag">Zaštićena područja</a>
 ---
 bg_text:
 ---
@@ -12,7 +12,7 @@ step_2: Odaberite zaštićeno područje iz padajućeg izbornika:
 ---
 pa_2: Odaberite zaštićeno područje
 ---
-graph_values: Odaberite vrijednosti koje želite prikazati na grafu
+graph_values: Odaberite <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=vrijednosti" class="content-tag">vrijednosti</a> koje želite prikazati na grafu
 ---
 overall_values: Sve vrijednosti
 ---
@@ -36,23 +36,23 @@ pa: Zaštićeno područje
 ---
 values: Vrijednosti
 ---
-learn_more_backline: Saznajte više
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_backline: Saznajte više
 ---
 learn_more_cta: Saznajte više
 ---
 learn_more_title_1: Priroda i ljudi
 ---
-learn_more_title_2: Održivo poslovanje
+learn_more_title_2: Održivo pos<a href="natureforpeople.org/knowledge-base/?query=lov" class="content-tag">lov</a>anje
 ---
 learn_more_title_3: Vrijednost zaštićenih područja
 ---
 intro_body:
 
-<p>WWF predstavlja rezultate analize
+<p><a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">WWF</a> predstavlja rezultate analize
 (<a href="http://croatia.panda.org/projekti/zatiena_podruja_za_prirodu_i_ljude/pa_bat_metodologija/" class="cc-secondary">PA-BAT</a>)
 koja prikazuje kako različiti dionici gledaju na trenutne egzistencijalne i ekonomske vrijednosti zaštićenih područja. Analiza je zasnovana na diskusijama koje su uključivale više od 1300 stručnjaka, vladinih službenika, poduzetnika, farmera i predstavnika lokalne zajednice u cijeloj regiji. </p>
 
-<p>Procijenjene vrijednosti zaštićenog područja mogu biti egzistencijalne, ekonomske i imaju li potencijala za prihode u budućnosti. Rezultati procjene su važni za upravljače zaštićenih područja, ali i za nacionalne i lokalne vlade, te za lokalne dionike koji pokušavaju razviti inicijative za održivi razvoj.</p>
+<p>Procijenjene vrijednosti zaštićenog područja mogu biti egzistencijalne, ekonomske i imaju li potencijala za prihode u <a href="natureforpeople.org/knowledge-base/?query=budu%C4%87nost" class="content-tag">budućnost</a>i. Rezultati procjene su važni za upravljače zaštićenih područja, ali i za nacionalne i lokalne vlade, te za lokalne dionike koji pokušavaju razviti inicijative za <a href="natureforpeople.org/knowledge-base/?query=odr%C5%BEivi+razvoj" class="content-tag">održivi razvoj</a>.</p>
 ---
 intro_title: Vrijednosti zaštićenih područja
 ---

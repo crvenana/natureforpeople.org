@@ -1,6 +1,6 @@
-_model: factsheet
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet
 ---
-_template: wwf_examples_factsheet.html
+_template: <a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">wwf</a>_examples_factsheet.html
 ---
 title: Këshilli i Palëve të Interesit
 ---
@@ -10,7 +10,7 @@ bg_text:
 ---
 main_headline:
 ---
-learn_more_button: Lexo më shumë
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_button: Lexo më shumë
 ---
 intro_title: Dialog i vazhdueshëm për një menaxhim më të mirë të zonave të mbrojtura 
 ---
@@ -51,4 +51,4 @@ learn_more: Lexo më shumë
 ---
 cta_button_text: Le të  zgjidhim së bashku sfidat 
 ---
-slug: stakeholders
+slug: <a href="natureforpeople.org/knowledge-base/?query=stakeholders" class="content-tag">stakeholders</a>

@@ -1,6 +1,6 @@
-_model: factsheet
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet
 ---
-_template: sustainable_business_factsheet.html
+_template: sustainable_<a href="natureforpeople.org/knowledge-base/?query=business" class="content-tag">business</a>_factsheet.html
 ---
 title: Pylltaria dhe menaxhimi i përgjegjshëm i pyjeve 
 ---
@@ -10,13 +10,13 @@ link_button: Pylltaria
 ---
 main_headline:
 ---
-learn_more_button: Lexo më shumë
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_button: Lexo më shumë
 ---
 intro_title: Menaxhimi i përgjegjshëm i pyjeve
 ---
 intro_body:
 
-<p class="highlight">Sipas të dhënave të WWF-it, mbijetesa e më shumë se dy të tretave të specieve tokësore varet nga pyjet dhe <a href="http://www.un.org/esa/forests/wp-content/uploads/bsk-pdf-manager/83_FACT_SHEET_FORESTSANDPEOPLE.PDF">1.6 miliardë njerëz</a> varen nga ruajtja e tyre dhe përdorimi i duhur. Shpesh dëgjojmë qe pyjet janë "mushkëritë e botës" si  përgjegjëse për prodhimin e oksigjenit që thithim cdo ditë . Ato janë rregullatori më i mirë i emetimeve të gazrave të serave, i cili është shkaktari i drejtpërdrejtë i ngrohjes globale.</p>
+<p class="highlight">Sipas të dhënave të <a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">WWF</a>-it, mbijetesa e më shumë se dy të tretave të specieve tokësore varet nga pyjet dhe <a href="http://www.un.org/esa/<a href="natureforpeople.org/knowledge-base/?query=forest" class="content-tag">forest</a>s/wp-content/uploads/bsk-pdf-manager/83_FACT_SHEET_<a href="natureforpeople.org/knowledge-base/?query=forests" class="content-tag">FORESTS</a>ANDPEOPLE.PDF">1.6 miliardë njerëz</a> varen nga ruajtja e tyre dhe përdorimi i duhur. Shpesh dëgjojmë qe pyjet janë "mushkëritë e botës" si  përgjegjëse për prodhimin e oksigjenit që thithim cdo ditë . Ato janë rregullatori më i mirë i emetimeve të gazrave të serave, i cili është shkaktari i drejtpërdrejtë i ngrohjes globale.</p>
 
 <p>Shkatërrimi i pyjeve çon në dëmtimin e gjithë ekosistemit tokësor. Me pyjet nuk kuptohen  vetëm pemët por edhe nga të gjitha bimët dhe kafshët që jetojnë në to. Përveç kësaj, mbulimi i pyjeve është me rëndësi vendimtare për habitatet bujqësore përreth, për mbrojtjen nga erozioni dhe ruajtjen e  regjimeve të ujit. Pyjet gjithashtu janë një nga burimet më të rëndësishme ekonomike.</p>
 
@@ -38,7 +38,7 @@ intro_body:
 
 <h3 class="h3 cc-secondary">Çfarë jemi duke bërë?</h3>
 
-<p>WWF-i në Bosnjë dhe Hercegovinë që nga viti 2012, po zbaton projektin <a href="http://adria.panda.org/en/what_we_do/forests">"Promovimi i pylltarisë së përgjegjshme në Bosnje dhe Hercegovinë"</a>, financuar nga IKEA. Kjo korporatë e madhe  përdor burimet natyrore në prodhimet e saj dhe në kuadër të bashkëpunimit të saj me WWF-in në nivel global ajo synon  të zvogëlojë efektet negative në natyrë përmes menaxhimit të qëndrueshëm të pyjeve, ujit dhe pambukut.</p>
+<p>WWF-i në Bosnjë dhe Hercegovinë që nga viti 2012, po zbaton projektin <a href="http://adria.panda.org/en/what_we_do/forests">"Promovimi i pylltarisë së përgjegjshme në Bosnje dhe Hercegovinë"</a>, financuar nga <a href="natureforpeople.org/knowledge-base/?query=ikea" class="content-tag">IKEA</a>. Kjo korporatë e madhe  përdor burimet natyrore në prodhimet e saj dhe në kuadër të bashkëpunimit të saj me WWF-in në nivel global ajo synon  të zvogëlojë efektet negative në natyrë përmes menaxhimit të qëndrueshëm të pyjeve, ujit dhe pambukut.</p>
 
 <p class="highlight">Në mënyrë që pyjet e Bosnjës dhe Hercegovinës  të përdoren në mënyrë të qëndrueshme, është e nevojshme  të luftohet tregtia ilegale e drurit dhe të sigurohet transparenca për të gjitha fazat, nga prerja e drurit deri në ofrimin e produkteve të drurit në dyqane. Në mënyrë që menaxhimi i pyjeve të jetë i qëndrueshëm dhe afatgjatë, ai duhet të jetë i përgjegjshëm. Përgjegjshmëria, ndër të tjera, bazohet në pajtueshmërinë me kriteret e ofruara nga <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/bih_ikea_letak_a4_web.pdf" target="_blank">certifikata FCS</a>.</p>
 
@@ -46,15 +46,15 @@ intro_body:
 
 <p>Deri tani në kuadër të <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/promocija_odgovornog_gazdovanja_sumama_u_bih_prp.pdf" target="_blank">projektit janë certifikuar 56,169 hektarë pyje në kantonin e Tuzllës dhe 36,872 hektarë pyje në Kantonin e Bosnjës Qendrore</a> (gjithsej 93,041 hektarë). Deri tani certifikata e FSC-së ka dëshmuar  të jetë instrumenti  më i mirë në dispozicion për të luftuar tregtinë ilegale të drurit në Bosnje dhe Hercegovinë dhe për të mbështetur konkurrencën në tregjet e BE.</p>
 
-<p>Certifikimi në Bosnjë dhe Hercegovinë gjithashtu ka rezultuar në identifikimin e pyjeve me vlerë të lartë të ruajtjes në bazë të niveleve të larta të biodiversitetit, proceseve të rëndësishme ekologjike dhe karakteristikave sociale, kulturore dhe fetare. Këto informacione janë përdorur në <a href="http://www.habeas-med.org/webgis/bh_en/" target="_blank">HABEAS</a>, bazën e të dhënave në internet, e cila përdoret për identifikimin dhe vlerësimin e shërbimeve të vetme të pyjeve me vlera të larta.</p>
+<p>Certifikimi në Bosnjë dhe Hercegovinë gjithashtu ka rezultuar në identifikimin e pyjeve me vlerë të lartë të ruajtjes në bazë të niveleve të larta të biodiversitetit, proceseve të rëndësishme ekologjike dhe karakteristikave sociale, kulturore dhe fetare. Këto informacione janë përdorur në <a href="http://www.habeas-med.org/web<a href="natureforpeople.org/knowledge-base/?query=gis" class="content-tag">gis</a>/bh_en/" target="_blank">HABEAS</a>, bazën e të dhënave në internet, e cila përdoret për identifikimin dhe vlerësimin e shërbimeve të vetme të pyjeve me vlera të larta.</p>
 
 <p>WWF-i ka luajtur një rol të rëndësishëm për fillimin  e dialogut në procesin e zhvillimit të projektligjit aktual federal mbi pyjet. Federata e Bosnjës dhe Hercegovinës për vite nuk ka patur  një ligj mbi pyjet. Deri vonë kanë ekzistuar disa drafte kontradiktore . Duke  bashkuar aktorët që kishin pikëpamje të kundërta dhe duke hartuar studimin mbi legjislacionin e fundit federal mbi pylltarinë, ne kemi ndihmuar në hartimin e projektligjit të ri mbi pyjet, që aktualisht i është paraqitur Parlamentit për shqyrtim dhe miratim.</p>
 
-<p>Bosnja dhe Hercegovina si  kandidate për anëtarësim në BE, duhet të njohë Rregulloren e BE-së për Lëndën Drunore. Kjo rregullore  përcakton rregulla të  rrepta  për gjurmueshmërinë e drurit që kalon kufijtë e BE-së, me qëllim parandalimin e tregtisë së paligjshme të drurit. Të kuptuarit e kësaj rregulloreje dhe harmonizimi i pylltarisë dhe industrisë së drurit me këtë Rregullore është i domosdoshëm për mbijetesën e produkteve të drurit të Bosnjës dhe Hercegovinës në tregun e BE-së. WWF-i ka forcuar kapacitetet e industrisë pyjore dhe te drurit e në Bosnjë dhe Hercegovinë në aspektin e njohjes  së kësaj Rregulloreje dhe ka publikuar <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/vodic_eutr__medium_format_170x230__adaptacija_za_web.pdf" target="_blank">Udhëzuesin për Zbatimin e Rregullores së BE-së për Drurin në Bosnjë dhe Hercegovinë</a>.</p>
+<p>Bosnja dhe Hercegovina si  kandidate për anëtarësim në BE, duhet të njohë Rregulloren e BE-së për Lëndën Drunore. Kjo rregullore  përcakton rregulla të  rrepta  për gjurmueshmërinë e drurit që kalon kufijtë e BE-së, me qëllim parandalimin e tregtisë së paligjshme të drurit. Të kuptuarit e kësaj rregulloreje dhe harmonizimi i pylltarisë dhe industrisë së drurit me këtë Rregullore është i domosdoshëm për mbijetesën e produkteve të drurit të Bosnjës dhe Hercegovinës në tregun e BE-së. WWF-i ka forcuar kapacitetet e industrisë pyjore dhe te drurit e në Bosnjë dhe Hercegovinë në aspektin e njohjes  së kësaj Rregulloreje dhe ka publikuar <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/vodic_<a href="natureforpeople.org/knowledge-base/?query=eu" class="content-tag">eu</a>tr__medium_format_170x230__adaptacija_za_web.pdf" target="_blank">Udhëzuesin për Zbatimin e Rregullores së BE-së për Drurin në Bosnjë dhe Hercegovinë</a>.</p>
 
 <h3 class="h3 cc-secondary">Çfarë dëshirojmë të arrijmë?</h3>
 
-<p>WWF-i synon të vazhdojë certifikimin e pyjeve në vend dhe të krijojë standardin FSC për Bosnjën dhe Hercegovinën. Falë interesimit të IKEA-së për të investuar në pyjet e Bosnjës dhe Hercegovinës, WWF-i do të vazhdojë të bashkojë aktorët në kuadër të platformës për dialog mbi ligjin për pyjet dhe të fillojë shkëmbimin e përvojave për menaxhimin e pyjeve private në vendet e BE-së, të cilat deri tani kanë munguar në politikat e Bosnjës dhe Hercegovinës për pyjet.</p>
+<p>WWF-i synon të vazhdojë certifikimin e pyjeve në vend dhe të krijojë standardin FSC për Bosnjën dhe Hercegovinën. Falë interesimit të IKEA-së për të investuar në pyjet e Bosnjës dhe Hercegovinës, WWF-i do të vazhdojë të bashkojë aktorët në kuadër të platformës për dialog mbi ligjin për pyjet dhe të fillojë shkëmbimin e përvojave për menaxhimin e pyjeve private në vendet e BE-së, të cilat deri tani kanë munguar në <a href="natureforpeople.org/knowledge-base/?query=politika" class="content-tag">politika</a>t e Bosnjës dhe Hercegovinës për pyjet.</p>
 
 <p class="highlight">Certifikimi i pyjeve, miratimi i ligjit për pyjet dhe njohja e legjislacionit të BE-së janë pranuar si mjete efektive në rrugëtimin drejt pylltarisë së qëndrueshme në Bosnjë dhe Hercegovinë.</p>
 ---
@@ -70,4 +70,4 @@ sust_business_4: Peshkimi
 ---
 cta_button_text: Le të  zgjidhim së bashku sfidat 
 ---
-slug: forestry
+slug: <a href="natureforpeople.org/knowledge-base/?query=forestry" class="content-tag">forestry</a>

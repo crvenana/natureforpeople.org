@@ -1,8 +1,8 @@
-_model: factsheet
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet
 ---
-_template: wwf_examples_factsheet.html
+_template: <a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">wwf</a>_examples_factsheet.html
 ---
-title: Promatranje medvjeda u nacionalnim parkovima Tara i Biogradska gora
+title: Promatranje medvjeda u nacionalnim parkovima Tara i <a href="natureforpeople.org/knowledge-base/?query=biogradska+gora" class="content-tag">Biogradska gora</a>
 ---
 link_button: Promatranje velikih zvijeri
 ---
@@ -10,15 +10,15 @@ bg_text:
 ---
 main_headline:
 ---
-learn_more_button: Saznaj više
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_button: Saznaj više
 ---
 intro_title: Promatranjem medvjeda do boljeg života lokalne zajednice
 ---
 intro_body:
 
-<p>Ako bismo trebali izdvojiti karizmatične vrste prisutne u svim zemljama regije Dinarskog luka, to su nedvojbeno tri velike zvijeri: <a href="http://adria.panda.org/kampanje/medvjed/" target="_blank">smeđi medvjed</a> (<i>Ursus arctos</i>), <a href="http://adria.panda.org/kampanje/ris/" target="_blank">ris</a> (<i>Lynx lynx</i>) i <a href="http://adria.panda.org/kampanje/vuk/" target="_blank">vuk</a> (<i>Canis lupus</i>). Sve su tri podjednako posebne, ali i ugrožene.</p>
+<p>Ako bismo trebali izdvojiti karizmatične vrste prisutne u svim zemljama regije Dinarskog luka, to su nedvojbeno tri velike zvijeri: <a href="http://adria.panda.org/kampanje/medvjed/" target="_blank">smeđi medvjed</a> (<i><a href="natureforpeople.org/knowledge-base/?query=ursus+arctos" class="content-tag">Ursus arctos</a></i>), <a href="http://adria.panda.org/kampanje/ris/" target="_blank">ris</a> (<i><a href="natureforpeople.org/knowledge-base/?query=lynx+lynx" class="content-tag">Lynx lynx</a></i>) i <a href="http://adria.panda.org/kampanje/vuk/" target="_blank">vuk</a> (<i><a href="natureforpeople.org/knowledge-base/?query=canis+lupus" class="content-tag">Canis lupus</a></i>). Sve su tri podjednako posebne, ali i ugrožene.</p>
 
-<p>Terenski projekt "Promatranje medvjeda" zajedno provode WWF i mreža zaštićenih područja Parkovi Dinarida u okviru programa "Zaštićena područja za prirodu i ljude" u nacionalnim parkovima Biogradska gora u Crnoj Gori i Tara u Srbiji. Ovaj projekt je posvećen razvoju održivog turizma i suživota lokalne zajednice i smeđeg medvjeda uz njegovu zaštitu i poboljšanje staništa. Osnovna je ideja podići svijest o važnosti očuvanja medvjeda kao vrste koja nam puno više vrijedi živa, nego kao meta lovcima. Zaštitimo li medvjeda od neodrživa lovstva, kroz jačanje brojnosti populacije veća je vjerojatnost da će turisti u navedenim nacionalnim parkovima moći vidjeti medvjeda uživo, čime će i lokalna zajednica imati veće koristi.</p>
+<p>Terenski projekt "Promatranje medvjeda" zajedno provode WWF i mreža zaštićenih područja Parkovi Dinarida u okviru programa "<a href="natureforpeople.org/knowledge-base/?query=za%C5%A1ti%C4%87ena+podru%C4%8Dja" class="content-tag">Zaštićena područja</a> za prirodu i ljude" u nacionalnim parkovima Biogradska gora u Crnoj Gori i Tara u Srbiji. Ovaj projekt je posvećen razvoju održivog turizma i suživota lokalne zajednice i smeđeg medvjeda uz njegovu zaštitu i poboljšanje staništa. Osnovna je ideja podići svijest o važnosti očuvanja medvjeda kao vrste koja nam puno više vrijedi živa, nego kao meta <a href="natureforpeople.org/knowledge-base/?query=lov" class="content-tag">lov</a>cima. Zaštitimo li medvjeda od neodrživa lovstva, kroz jačanje brojnosti populacije veća je vjerojatnost da će turisti u navedenim nacionalnim parkovima moći vidjeti medvjeda uživo, čime će i lokalna zajednica imati veće koristi.</p>
 
 <p class="highlight">WWF u cijelom svijetu radi po sistemu misli globalno, djeluj lokalno. Tako i u slučaju medvjeda: globalno želimo zaštititi vrstu, a regionalno u njegovu zaštitu uključujemo lokalnu zajednicu koja će imati razloga ostati u tom kraju zbog bolje kvalitete života uzrokovane novim radnim mjestima i većem broju turista koji posjećuju zaštićeno područje.</p>
 
@@ -27,11 +27,11 @@ intro_body:
 
 <p class="highlight"><img src="/static/images/bear-watching-content.jpg" /></p>
 
-<p>Zaštita smeđeg medvjeda čiji je opstanak ugrožen uništavanjem prirodnih staništa i krivolovom predstavlja prioritet za zaštitu na globalnom nivou. Zbog neodrživog šumarstva, širenja poljoprivrednih površina, izgradnje puteva i naselja u staništu medvjeda, njihov se broj sve više smanjuje. Također, lokalno stanovništvo smatra da je suživot s medvjedom nemoguć zbog šteta koje ova životinja ponekad izaziva na poljoprivrednim površinama.</p>
+<p>Zaštita smeđeg medvjeda čiji je opstanak ugrožen uništavanjem prirodnih staništa i <a href="natureforpeople.org/knowledge-base/?query=krivolov" class="content-tag">krivolov</a>om predstavlja prioritet za zaštitu na globalnom nivou. Zbog neodrživog šumarstva, širenja poljoprivrednih površina, izgradnje puteva i naselja u staništu medvjeda, njihov se broj sve više smanjuje. Također, lokalno stanovništvo smatra da je suživot s medvjedom nemoguć zbog šteta koje ova životinja ponekad izaziva na poljoprivrednim površinama.</p>
 
 <p class="highlight">Kroz suradnju s lovcima i lokalnim stanovništvom u stvaranju turističke ponude promatranja medvjeda i propratnih turističkih usluga i proizvoda omogućiti  će se suživot čovjeka i medvjeda te zaštićene prirode.</p>
 
-<p>Tijekom 2016. godine u Nacionalnom parku Tara ogrlicama opremljenima GPS tehnologijom prati se kretanje pet medvjeda. Monitoring medvjeda fotozamkama provodi osoblje Nacionalnog parka Tara u suradnji sa stručnim timom biologa iz Srbije. Od 2017. godine radit će se i genetsko ispitivanje prikupljenih uzoraka medvjeda kako bi se utvrdila brojnost populacije. U procesu je bitno stvaranje partnerstva između znanstvenika, upravljača zaštićenih područja i  lokalnog stanovništva, ponajviše volonterima iz zajednice, šumarima, lovcima i mladim stručnjacima.</p>
+<p>Tijekom 2016. godine u Nacionalnom parku Tara ogrlicama opremljenima GPS tehnologijom prati se kretanje pet medvjeda. <a href="natureforpeople.org/knowledge-base/?query=monitoring" class="content-tag">Monitoring</a> medvjeda fotozamkama provodi osoblje Nacionalnog parka Tara u suradnji sa stručnim timom biologa iz Srbije. Od 2017. godine radit će se i genetsko ispitivanje prikupljenih uzoraka medvjeda kako bi se utvrdila brojnost populacije. U procesu je bitno stvaranje <a href="natureforpeople.org/knowledge-base/?query=partners" class="content-tag">partners</a>tva između znanstvenika, upravljača zaštićenih područja i  lokalnog stanovništva, ponajviše volonterima iz zajednice, šumarima, lovcima i mladim stručnjacima.</p>
 
 <p>U Nacionalnom parku Biogradska gora pripremljene su prve lokacije za promatranje medvjeda, izrađene su privremene hranilice, postavljene fotozamke te je uspostavljen monitoring na hranilištima.</p>
 
@@ -42,7 +42,7 @@ intro_body:
 <p>Planirane aktivnosti provedene unutar ovog projekta obuhvatit će:</p>
 
 <ul>
-	<li>izradu poslovnog i marketinškog plana za turistički paket "Promatranje medvjeda",</li>
+	<li>izradu poslovnog i <a href="natureforpeople.org/knowledge-base/?query=market" class="content-tag">market</a>inškog plana za turistički paket "Promatranje medvjeda",</li>
 	<li>organiziranje treninga za interpretaciju divljeg svijeta,</li>
 	<li>obuku za prikupljanje DNK materijala za praćenje stanja populacije medvjeda,</li>
 	<li>unapređenje monitoringa populacije,</li>
@@ -54,7 +54,7 @@ intro_body:
 </ul>
 
 <h3 class="h3 cc-secondary">Što ćemo postići?</h3>
-<p>Želja je WWF-a i Parkova Dinarida da se u okviru suradnje s upravljačima parkova i lokalnim stanovništvom ostvare vidljivi pomaci u zaštiti i očuvanju divljih vrsta i njihovih staništa. S novim marketinškim planom bit će razvijen i atraktivni turistički proizvod od kojeg će koristi imati i nacionalni parkovi i lokalna zajednica.</p>
+<p>Želja je WWF-a i Parkova Dinarida da se u okviru suradnje s upravljačima parkova i lokalnim stanovništvom ostvare vidljivi pomaci u zaštiti i očuvanju divljih vrsta i njihovih staništa. S novim marketinškim planom bit će razvijen i atraktivni turistički proizvod od kojeg će koristi imati i <a href="natureforpeople.org/knowledge-base/?query=nacionalni+park" class="content-tag">nacionalni park</a>ovi i lokalna zajednica.</p>
 
 <p>Potičemo promjenu obrazaca ponašanja ljudi i korištenja prirodnih resursa. Stanovnici zaštićenih i okolnih područja uključit će se u edukativne aktivnosti i u kreiranje atraktivne turističke ponude koja će privući nove posjetitelje. Tako će biti u prilici ostvariti nove poslovne ideje i povećati proizvodnju i prodaju postojećih proizvoda i usluga. Dugoročno će nove prilike za zaposlenje utjecati na ublažavanje siromaštva u seoskim područjima, poboljšanje uvjeta života i smanjenje degradacije prirodnih resursa.</p>
 

@@ -1,6 +1,6 @@
-_model: factsheet
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet
 ---
-_template: wwf_examples_factsheet.html
+_template: <a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">wwf</a>_examples_factsheet.html
 ---
 title: Turizmi i lumit Sutjeska
 ---
@@ -10,13 +10,13 @@ bg_text:
 ---
 main_headline:
 ---
-learn_more_button: Lexo më shumë
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_button: Lexo më shumë
 ---
 intro_title: Produkt i ri turistik kundër hidrocentraleve shkatërruese
 ---
 intro_body:
 
-<p>Parku Kombëtar Sutjeska është parku më i vjetër kombëtar në Bosnjë dhe Hercegovinë. Ai  është një nga zonat më të larmishme biologjike në Evropën Juglindore, me (<a href="http://etnar.net/wp-content/uploads/2015/02/Sutjeska-Publikacija.pdf" target="_blank">1800 lloje</a>) specie bimore,  më shumë se në të <a href="https://cmsdata.iucn.org/downloads/poland_s_biodiversity_at_risk_fact_sheet_may_2013.pdf" target="_blank">gjithë Poloninë</a>. Aty ndodhet gjithashtu  një nga pyjet e fundit te virgjër në Evropë - Peruqica, i cili është një rezervat  strikst natyror.</p>
+<p>Parku Kombëtar Sutjeska është parku më i vjetër kombëtar në Bosnjë dhe Hercegovinë. Ai  është një nga zonat më të larmishme biologjike në Evropën Juglindore, me (<a href="http://etnar.net/wp-content/uploads/2015/02/Sutjeska-Publikacija.pdf" target="_blank">1800 lloje</a>) specie bimore,  më shumë se në të <a href="https://cmsdata.iucn.org/downloads/poland_s_<a href="natureforpeople.org/knowledge-base/?query=biodiversity" class="content-tag">biodiversity</a>_at_<a href="natureforpeople.org/knowledge-base/?query=risk" class="content-tag">risk</a>_fact_sheet_may_2013.pdf" target="_blank">gjithë Poloninë</a>. Aty ndodhet gjithashtu  një nga pyjet e fundit te virgjër në Evropë - Peruqica, i cili është një rezervat  strikst natyror.</p>
 
 <p>WWF-i ka disa vite që është duke bashkëpunuar me Parkun Sutjeska, i cili  tani është i lidhur me një rrjet të parqeve te tjera rajonale përmes anëtarësimit në rrjetin e zonave te mbrojtura të Parqeve të Harkut Dinarik.</p>
 
@@ -44,4 +44,4 @@ learn_more: Lexo më shumë
 ---
 cta_button_text: Le të  zgjidhim së bashku sfidat 
 ---
-slug: river-tourism
+slug: river-<a href="natureforpeople.org/knowledge-base/?query=tourism" class="content-tag">tourism</a>

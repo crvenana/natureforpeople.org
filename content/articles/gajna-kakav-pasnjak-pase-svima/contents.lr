@@ -1,4 +1,4 @@
-_model: articles
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: articles
 ---
 _template: articles/single-article.html
 ---
@@ -10,7 +10,7 @@ lang: hr
 ---
 date: 15.3.2018.
 ---
-author: Petra Boić Petrač (ppetrac@wwfadria.org, prirodazaljude@wwfadria.org)
+author: Petra Boić Petrač (ppetrac@<a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">wwf</a>adria.org, prirodazaljude@wwfadria.org)
 ---
 size: big
 ---
@@ -115,7 +115,7 @@ su ovo podolci! Nisu li krasni?“, pita dr. Šimo.</p>
 <p>„Imaju tamno meso pa se mesari ne usuđuju kupovati jer su uvjereni da ih nitko neće kupiti“,
 navodi još jedan izazov s kojim se opetovano susreću.</p>
 
-<img src="/static/images/articles/gajna/podolci.jpg" class="fit-text" title="Podolci spašeni od poplave © Petra Boić Petrač, WWF Adria">
+<img src="/static/images/articles/gajna/podolci.jpg" class="fit-text" title="Podolci spašeni od <a href="natureforpeople.org/knowledge-base/?query=poplave" class="content-tag">poplave</a> © Petra Boić Petrač, WWF Adria">
 
 <p>Prije negoli napustim selo, želim upoznati Ivicu Kovačevića, najmlađeg stočara. Dočekuje nas
 supruga Marija. U ruci drži dvomjesečnog Adama, a devet godina stariji Marin upravo se sprema za
@@ -144,7 +144,7 @@ ona o nama i našoj stoci“, zaključuje Kovačević.</p>
 
 <img src="/static/images/articles/gajna/spremanje-sjena-u-vrijeme-potopljene-gajne-(c)-iris-benes-bed.jpg" class="fit-text" title="Spremanje sjena u vrijeme potopljene Gajne © Iris Beneš, BED">
 ---
-learn_more: Saznajte više
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>: Saznajte više
 ---
 tag1: poticaji
 ---
@@ -154,5 +154,5 @@ tag3:
 ---
 tag4:
 ---
-factsheet:
+<a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet:
 ---

@@ -1,6 +1,6 @@
-_model: factsheet
+<a href="natureforpeople.org/knowledge-base/?query=" class="content-tag"></a>_model: <a href="<a href="natureforpeople.org/knowledge-base/?query=nature" class="content-tag">nature</a>forpeople.org/knowledge-base/?query=facts" class="content-tag">facts</a>heet
 ---
-_template: sustainable_business_factsheet.html
+_template: sustainable_<a href="natureforpeople.org/knowledge-base/?query=business" class="content-tag">business</a>_factsheet.html
 ---
 title: Ekosistemet e ujërave të ëmbla dhe hidroenergjia e qëndrueshme 
 ---
@@ -10,7 +10,7 @@ link_button: Hidroenergjia
 ---
 main_headline:
 ---
-learn_more_button: Lexo më shumë
+learn_<a href="natureforpeople.org/knowledge-base/?query=more" class="content-tag">more</a>_button: Lexo më shumë
 ---
 intro_title: Hidroenergjia si e vetmja rrugë e drejtë
 ---
@@ -18,11 +18,11 @@ intro_body:
 
 <p>Nga pragjet e lumenjve alpine përmes lumenjve të ultësirave të gjëra, deri në rrjedhat e nëndheshme karstike, rajoni ynë është i pasur me lumenj të të gjitha llojeve dhe madhësive.</p>
 
-<p class="highlight">Sipas <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/rijeke_linije_ivote_dinarskog_luka.pdf">AAnalizave të statusit ekologjik të lumenjve</a>, të realizuar nga WWF-i në vitin 2014, mesatarisht 70 për qind e lumenjve janë në një gjendje të jashtëzakonshme.</p>
+<p class="highlight">Sipas <a href="http://d2ouvy59p0dg6k.cloudfront.net/downloads/rijeke_linije_ivote_dinarskog_luka.pdf">AAnalizave të statusit ekologjik të lumenjve</a>, të realizuar nga <a href="natureforpeople.org/knowledge-base/?query=wwf" class="content-tag">WWF</a>-i në vitin 2014, mesatarisht 70 për qind e lumenjve janë në një gjendje të jashtëzakonshme.</p>
 
-<p>Lumenjtë tanë me të vërtetë janë jetësorë dhe përbëjnë një pasuri të madhe. Nëse i shikojmë liqenet dhe kënetat e shumta, nuk është rastësi  që WWF-i i konsideron "sistemet e ujërave të ëmbla të Ballkanit Perëndimor" midis <a href="http://wwf.panda.org/about_our_earth/ecoregions/balkan_rivers_streams.cfm">200 eko-rajoneve më të rëndësishme</a> në botë.</p>
+<p>Lumenjtë tanë me të vërtetë janë jetësorë dhe përbëjnë një pasuri të madhe. Nëse i shikojmë liqenet dhe kënetat e shumta, nuk është rastësi  që WWF-i i konsideron "sistemet e ujërave të ëmbla të Ballkanit Perëndimor" midis <a href="http://wwf.panda.org/about_our_earth/ecoregions/<a href="natureforpeople.org/knowledge-base/?query=balkan" class="content-tag">balkan</a>_<a href="natureforpeople.org/knowledge-base/?query=rivers" class="content-tag">rivers</a>_streams.cfm">200 eko-rajoneve më të rëndësishme</a> në botë.</p>
 
-<p>Lumenjtë, liqenet dhe kënetat e Ballkanit Perëndimor janë shtëpi e llojeve të shumta bimore dhe shtazore. Më shumë se 250 lloje peshqish dhe 70 lloje amfibësh gjenden këtu, shumica e të cilave  janë endemike. Kënetat unike të pasura me ujë, si Liqeni i Shkodrës, Livanjsko polje, Balta e Hutovës dhe delta e lumit Neretva, janë habitate të rëndësishme për shpendët, sidomos shpendët migrues të cilët pushojnë dhe ushqehen atje. Në nëntokë, në errësirën e shpellave dhe tuneleve  nëntokësore, gjendet një sistem unik karstik në të cilin lulëzon bota e mrekullueshme shtazore dhe bimore,  kryesisht ende e pashkelur.</p>
+<p>Lumenjtë, liqenet dhe kënetat e Ballkanit Perëndimor janë shtëpi e llojeve të shumta bimore dhe shtazore. Më shumë se 250 lloje peshqish dhe 70 lloje amfibësh gjenden këtu, shumica e të cilave  janë <a href="natureforpeople.org/knowledge-base/?query=endem" class="content-tag">endem</a>ike. Kënetat unike të pasura me ujë, si Liqeni i Shkodrës, Livanjsko polje, Balta e Hutovës dhe delta e lumit Neretva, janë habitate të rëndësishme për shpendët, sidomos shpendët migrues të cilët pushojnë dhe ushqehen atje. Në nëntokë, në errësirën e shpellave dhe tuneleve  nëntokësore, gjendet një sistem unik karstik në të cilin lulëzon bota e mrekullueshme shtazore dhe bimore,  kryesisht ende e pashkelur.</p>
 
 <p>Përveç ruajtjes së biodiversitetit, ky oaz i ujërave të ëmbla ofron gjithashtu një numër të rëndësishme të shërbimeve të ekosistemeve që mbështesin nevojat e njeriut: sigurimin e ujit për pije dhe ujitje, si një burim ushqimi dhe energjie, një burim për një sërë aktivitetesh ekonomike, reduktimin e përmbytjeve, pastrimin, balancimin dhe rivendosjen e niveleve të ujërave nëntokësore si dhe ofrimin e një sërë mundësish kulturore dhe rekreative.</p>
 
@@ -33,7 +33,7 @@ intro_body:
 	<ul>
 		<li>sigurojnë ekosisteme të shëndetshme në pellgjet e lumenjve të Ballkanit Perëndimor</li>
 		<li>të sigurojë mbrojtjen dhe menaxhimin e qëndrueshëm të kënetave</li>
-		<li>promovimi i politikave dhe qasjeve që do të ndihmojnë në ruajtjen e lumenjve të  gjallë</li>
+		<li>promovimi i <a href="natureforpeople.org/knowledge-base/?query=politika" class="content-tag">politika</a>ve dhe qasjeve që do të ndihmojnë në ruajtjen e lumenjve të  gjallë</li>
 		<li>mundësojnë përdorimin e qëndrueshëm të burimeve të lumit për komunitetet lokale</li>
 	</ul>
 </div>
@@ -50,7 +50,7 @@ intro_body:
 
 <p class="highlight">Në bashkëpunim me organizatat joqeveritare lokale (TOKA, INCA) në Shqipëri po luftojmë kundër ndërtimit të hidrocentraleve në Parkun Kombëtar të Valbonës. Përveç përgatitjes për një betejë ligjore, ne në mënyrë aktive po rrisim vetëdijen publike në Shqipëri për këtë çështje. Kjo ka çuar në organizimin e një koncerti shumë të madh  proteste, me pjesëmarrje të jashtë zakonshme në Valbonë dhe Tiranë.</p>
 
-<p>IPërveç punës në kuadër të nismave  për hidroenergji të qëndrueshme, ekipi i WWF-it për ekosistemin e ujërave të ëmbla është duke  realizuar disa projekte me theks të veçantë në vlerat e lumenjve Mura, Drava dhe Danubi. <a href="http://www.amazon-of-europe.com/hr/">"Amazona Evropiane"</a> – Mura, Drava dhe Danubi Rezerva e Biosferës Ndërkufitare kalon nëpër pesë vende. Qëllimi i WWF-it është ruajtja e vlerave unike natyrore dhe kulturore të zonës përmes mbrojtjes dhe menaxhimit të mirë të këtyre ekosistemeve ujore. Për të siguruar këtë, ne jemi duke avokuar për shpalljen e këtij rajoni ndërkufitar si Rezervat i Biosferës së UNESCO-s. <strong>Puna jonë është e përqendruar në monitorimin e gjendjes së zonave të lumenjve, <a href="http://www.drava-life.hr/hr/naslovnica/">rigjallërimin e lumit Drava</a>, ruajten  e rezervave, përdorimin e masave natyrore për mbrojtje nga përmbytjet, lidhjen e institucioneve përkatëse me qëllim të arritjes së bashkëpunimit të mirë ndërkufitar, krijimin dhe zbatimin e masave të përbashkëta për menaxhimin e gjithë rezervatit zonës / biosferës.</strong></p>
+<p>IPërveç punës në kuadër të nismave  për hidroenergji të qëndrueshme, ekipi i WWF-it për ekosistemin e ujërave të ëmbla është duke  realizuar disa projekte me theks të veçantë në vlerat e lumenjve Mura, Drava dhe Danubi. <a href="http://www.amazon-of-<a href="natureforpeople.org/knowledge-base/?query=eu" class="content-tag">eu</a>rope.com/hr/">"Amazona Evropiane"</a> – Mura, Drava dhe Danubi Rezerva e Biosferës Ndërkufitare kalon nëpër pesë vende. Qëllimi i WWF-it është ruajtja e vlerave unike natyrore dhe kulturore të zonës përmes mbrojtjes dhe menaxhimit të mirë të këtyre ekosistemeve ujore. Për të siguruar këtë, ne jemi duke avokuar për shpalljen e këtij rajoni ndërkufitar si Rezervat i Biosferës së UNESCO-s. <strong>Puna jonë është e përqendruar në monitorimin e gjendjes së zonave të lumenjve, <a href="http://www.drava-<a href="natureforpeople.org/knowledge-base/?query=life" class="content-tag">life</a>.hr/hr/nas<a href="natureforpeople.org/knowledge-base/?query=lov" class="content-tag">lov</a>nica/">rigjallërimin e lumit Drava</a>, ruajten  e rezervave, përdorimin e masave natyrore për mbrojtje nga përmbytjet, lidhjen e institucioneve përkatëse me qëllim të arritjes së bashkëpunimit të mirë ndërkufitar, krijimin dhe zbatimin e masave të përbashkëta për menaxhimin e gjithë rezervatit zonës / biosferës.</strong></p>
 
 <p>Në punën tonë për mbrojtjen ekosistemeve të ujërave të ëmbla, ne promovojmë menaxhimin gjithëpërfshirës dhe të integruar të burimeve ujore përmes komunikimit të drejtpërdrejtë me vendimmarrësit. Ne ofrojmë zgjidhje alternative dhe moderne që mundësojnë ruajtjen dhe restaurimin e këtyre fushave të rëndësishme. Përmes fushatave dhe trajnimeve ne gjithashtu po  përmirësojmë njohuritë e publikut për rëndësinë dhe metodat për mbrojtjen e sistemeve të ujërave të ëmbla.</p>
 
@@ -67,4 +67,4 @@ sust_business_4: Peshkimi
 ---
 cta_button_text: Le të  zgjidhim së bashku sfidat 
 ---
-slug: hydropower
+slug: <a href="natureforpeople.org/knowledge-base/?query=hydropower" class="content-tag">hydropower</a>
